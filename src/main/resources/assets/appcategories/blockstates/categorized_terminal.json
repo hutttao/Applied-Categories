@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down": { "model": "appcategories:block/categorized_terminal", "x": 270 },
+    "facing=up": { "model": "appcategories:block/categorized_terminal", "x": 90 },
+    "facing=north": { "model": "appcategories:block/categorized_terminal" },
+    "facing=east": { "model": "appcategories:block/categorized_terminal", "y": 90 },
+    "facing=south": { "model": "appcategories:block/categorized_terminal", "y": 180 },
+    "facing=west": { "model": "appcategories:block/categorized_terminal", "y": 270 }
+  }
+}

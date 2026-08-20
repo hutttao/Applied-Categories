@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ae2:terminal"
+    },
+    {
+      "item": "appcategories:category_disk"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "appcategories:categorized_terminal"
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "parent": "ae2:part/display_off",
-  "textures": {
-    "lightsBright": "mektmc:part/terminal_bright",
-    "lightsMedium": "mektmc:part/terminal_medium",
-    "lightsDark": "mektmc:part/terminal_dark"
-  }
-}

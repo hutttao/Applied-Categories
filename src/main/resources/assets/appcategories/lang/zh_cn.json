@@ -1,0 +1,21 @@
+{
+  "itemGroup.appcategories.main": "Applied Categories",
+  "item.appcategories.category_disk": "ME分类磁盘",
+  "item.appcategories.categorized_terminal": "ME分类终端",
+  "block.appcategories.category_index": "ME分类索引器",
+  "block.appcategories.categorized_terminal": "ME分类终端",
+  "container.appcategories.category_index": "ME分类索引器",
+  "container.appcategories.categorized_terminal": "ME分类终端",
+  "screen.appcategories.categorized_terminal.loading": "正在加载分类...",
+  "screen.appcategories.categorized_terminal.search_hint": "搜索...",
+  "screen.appcategories.categorized_terminal.category.all": "全部",
+  "screen.appcategories.categorized_terminal.category.uncategorized": "未分类",
+  "screen.appcategories.categorized_terminal.create_category": "创建分类",
+  "screen.appcategories.categorized_terminal.delete_category": "删除分类",
+  "screen.appcategories.categorized_terminal.default_category_name": "分类 %s",
+  "screen.appcategories.categorized_terminal.status.ok": "在线",
+  "screen.appcategories.categorized_terminal.status.offline": "终端离线",
+  "screen.appcategories.categorized_terminal.status.no_index": "未找到分类索引器",
+  "screen.appcategories.categorized_terminal.status.conflict": "分类索引器冲突",
+  "tooltip.appcategories.category_disk.database": "数据库：%s"
+}

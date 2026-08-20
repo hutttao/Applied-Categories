@@ -1,0 +1,56 @@
+{
+  "textures": {
+    "sides": "appcategories:part/monitor_sides",
+    "sidesStatus": "appcategories:part/monitor_sides_status",
+    "back": "appcategories:part/monitor_back",
+    "front": "appcategories:part/monitor_front",
+    "particle": "appcategories:part/monitor_back"
+  },
+  "elements": [
+    {
+      "from": [2, 2, 0],
+      "to": [14, 14, 2],
+      "faces": {
+        "down": {
+          "texture": "#sides"
+        },
+        "up": {
+          "texture": "#sides"
+        },
+        "south": {
+          "texture": "#back"
+        },
+        "east": {
+          "texture": "#sides"
+        },
+        "north": {
+          "texture": "#front"
+        },
+        "west": {
+          "texture": "#sides"
+        }
+      }
+    },
+    {
+      "from": [4, 4, 2],
+      "to": [12, 12, 3],
+      "faces": {
+        "down": {
+          "texture": "#sidesStatus"
+        },
+        "up": {
+          "texture": "#sidesStatus"
+        },
+        "south": {
+          "texture": "#back"
+        },
+        "east": {
+          "texture": "#sidesStatus"
+        },
+        "west": {
+          "texture": "#sidesStatus"
+        }
+      }
+    }
+  ]
+}
