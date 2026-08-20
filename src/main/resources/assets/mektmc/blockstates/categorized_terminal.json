@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down": { "model": "mektmc:block/categorized_terminal", "x": 270 },
+    "facing=up": { "model": "mektmc:block/categorized_terminal", "x": 90 },
+    "facing=north": { "model": "mektmc:block/categorized_terminal" },
+    "facing=east": { "model": "mektmc:block/categorized_terminal", "y": 90 },
+    "facing=south": { "model": "mektmc:block/categorized_terminal", "y": 180 },
+    "facing=west": { "model": "mektmc:block/categorized_terminal", "y": 270 }
+  }
+}

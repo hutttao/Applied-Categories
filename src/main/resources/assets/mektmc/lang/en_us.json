@@ -1,0 +1,21 @@
+{
+  "itemGroup.mektmc.lyan": "lyan",
+  "item.mektmc.category_disk": "ME Category Disk",
+  "item.mektmc.categorized_terminal": "Categorized ME Terminal",
+  "block.mektmc.category_index": "ME Category Index",
+  "block.mektmc.categorized_terminal": "Categorized ME Terminal",
+  "container.mektmc.category_index": "ME Category Index",
+  "container.mektmc.categorized_terminal": "Categorized ME Terminal",
+  "screen.mektmc.categorized_terminal.loading": "Loading categories...",
+  "screen.mektmc.categorized_terminal.search_hint": "Search...",
+  "screen.mektmc.categorized_terminal.category.all": "All",
+  "screen.mektmc.categorized_terminal.category.uncategorized": "Uncategorized",
+  "screen.mektmc.categorized_terminal.create_category": "Create Category",
+  "screen.mektmc.categorized_terminal.delete_category": "Delete Category",
+  "screen.mektmc.categorized_terminal.default_category_name": "Category %s",
+  "screen.mektmc.categorized_terminal.status.ok": "Online",
+  "screen.mektmc.categorized_terminal.status.offline": "Terminal is offline",
+  "screen.mektmc.categorized_terminal.status.no_index": "No category index found",
+  "screen.mektmc.categorized_terminal.status.conflict": "Category index conflict",
+  "tooltip.mektmc.category_disk.database": "Database: %s"
+}

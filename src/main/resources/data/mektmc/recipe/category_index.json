@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ae2:drive"
+    },
+    {
+      "item": "mektmc:category_disk"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mektmc:category_index"
+  }
+}

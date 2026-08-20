@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mektmc:block/category_index"
+    },
+    "facing=south": {
+      "model": "mektmc:block/category_index",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "mektmc:block/category_index",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "mektmc:block/category_index",
+      "y": 270
+    }
+  }
+}
