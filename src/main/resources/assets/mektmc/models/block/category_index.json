@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "front": "mektmc:block/cat_index_front",
-    "side": "ae2:block/generics/side",
-    "top": "ae2:block/generics/top"
-  }
-}

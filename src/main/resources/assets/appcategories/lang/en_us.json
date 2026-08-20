@@ -1,0 +1,21 @@
+{
+  "itemGroup.appcategories.main": "Applied Categories",
+  "item.appcategories.category_disk": "ME Category Disk",
+  "item.appcategories.categorized_terminal": "Categorized ME Terminal",
+  "block.appcategories.category_index": "ME Category Index",
+  "block.appcategories.categorized_terminal": "Categorized ME Terminal",
+  "container.appcategories.category_index": "ME Category Index",
+  "container.appcategories.categorized_terminal": "Categorized ME Terminal",
+  "screen.appcategories.categorized_terminal.loading": "Loading categories...",
+  "screen.appcategories.categorized_terminal.search_hint": "Search...",
+  "screen.appcategories.categorized_terminal.category.all": "All",
+  "screen.appcategories.categorized_terminal.category.uncategorized": "Uncategorized",
+  "screen.appcategories.categorized_terminal.create_category": "Create Category",
+  "screen.appcategories.categorized_terminal.delete_category": "Delete Category",
+  "screen.appcategories.categorized_terminal.default_category_name": "Category %s",
+  "screen.appcategories.categorized_terminal.status.ok": "Online",
+  "screen.appcategories.categorized_terminal.status.offline": "Terminal is offline",
+  "screen.appcategories.categorized_terminal.status.no_index": "No category index found",
+  "screen.appcategories.categorized_terminal.status.conflict": "Category index conflict",
+  "tooltip.appcategories.category_disk.database": "Database: %s"
+}

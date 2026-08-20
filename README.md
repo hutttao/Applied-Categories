@@ -12,7 +12,7 @@ Minecraft 1.21.1 · NeoForge 21.1.x · AE2 19.x
 | **ME Category Index** | A machine that hosts the category database. Insert a **ME Category Disk** to load a database; only one index may be active per network. |
 | **ME Category Disk** | A portable key to a category database (stored in world save data by disk UUID). Move it between indexes to carry your categories. |
 
-All items are placed in the **"lyan"** creative tab (icon: AE2 Wireless Terminal).
+All items are placed in the **"Applied Categories"** creative tab (icon: AE2 Wireless Terminal).
 
 ## Recipes (shapeless)
 

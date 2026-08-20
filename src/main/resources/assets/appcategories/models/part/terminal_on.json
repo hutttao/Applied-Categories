@@ -1,0 +1,52 @@
+{
+  "textures": {
+    "lightsBright": "appcategories:part/terminal_bright",
+    "lightsMedium": "appcategories:part/terminal_medium",
+    "lightsDark": "appcategories:part/terminal_dark",
+    "base": "appcategories:part/terminal_base"
+  },
+  "elements": [
+    {
+      "from": [4, 4, 0],
+      "to": [12, 12, 2],
+      "faces": {
+        "north": {
+          "texture": "#base"
+        }
+      }
+    },
+    {
+      "from": [2, 2, 0],
+      "to": [14, 14, 2],
+      "faces": {
+        "north": {
+          "texture": "#lightsBright",
+          "tintindex": 3,
+          "neoforge_data": { "block_light": 15, "sky_light": 15 }
+        }
+      }
+    },
+    {
+      "from": [2, 2, 0],
+      "to": [14, 14, 2],
+      "faces": {
+        "north": {
+          "texture": "#lightsMedium",
+          "tintindex": 2,
+          "neoforge_data": { "block_light": 15, "sky_light": 15 }
+        }
+      }
+    },
+    {
+      "from": [2, 2, 0],
+      "to": [14, 14, 2],
+      "faces": {
+        "north": {
+          "texture": "#lightsDark",
+          "tintindex": 1,
+          "neoforge_data": { "block_light": 15, "sky_light": 15 }
+        }
+      }
+    }
+  ]
+}
